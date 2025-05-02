@@ -41,6 +41,9 @@ The serverless data pipeline includes:
 6. **Visualize with QuickSight**  
    - Connect QuickSight to Athena
    - Build visual dashboards using the views created
+  
+![Glue_ETL_2](https://github.com/user-attachments/assets/7ef4fec0-5381-462e-acd8-fdf105f44f10)
+
 
 ## ✅ Key Features
 
